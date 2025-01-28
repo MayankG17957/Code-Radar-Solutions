@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-char* welcome() {
+ int main
+ () {
     float fl;
     printf("");
     scanf("%f",&fl);

@@ -2,7 +2,6 @@
 
  int main() {
     float num;
-    
-    scanf("%f",&fl);
-    printf("%.2f",fl);
+    scanf("%f",&num);
+    printf("%.2f",num);
 }

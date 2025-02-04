@@ -11,8 +11,11 @@ int main() {
     scanf("%d",&b);
     if (a > 0 && b < 0){
         printf("True");
-    }else {
-        printf("False");
+    }else if(a == 0 && b == 0){
+        printf("True");
+    }
+    else{
+        printf("False")
     }
     // printf("%s", welcome());
     // return 0;

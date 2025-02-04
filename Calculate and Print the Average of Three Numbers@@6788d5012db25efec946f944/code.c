@@ -7,11 +7,11 @@ char* welcome() {
 int main() {
     int a ,b ,c;
     float d;
-    d = a + b + c /3 ;
+    d = (a + b + c) /3 ;
     scanf("%d",&a);
     scanf("%d",&b);
     scanf("%d",&c);
-    printf("%f",&d);
+    printf("Average: %f",&d);
     // printf("%s", welcome());
     return 0;
 }

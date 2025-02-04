@@ -11,7 +11,7 @@ int main() {
     scanf("%d",&a);
     scanf("%d",&b);
     scanf("%d",&c);
-    printf("Average: %f",&d);
+    printf("Average: %.2f",&d);
     // printf("%s", welcome());
     return 0;
 }

@@ -11,7 +11,7 @@ int main() {
     scanf("%d",&b);
     if (a > b){
         printf("True");
-    }else if{
+    }else {
         printf("False");
     }
     // printf("%s", welcome());

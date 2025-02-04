@@ -11,7 +11,7 @@ int main() {
     scanf("%d",&a);
     scanf("%d",&b);
     scanf("%d",&c);
-    print("%f",&d);
+    printf("%f",&d);
     // printf("%s", welcome());
     return 0;
 }

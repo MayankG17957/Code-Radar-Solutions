@@ -4,8 +4,8 @@
 int main() {
     int n;
 
-    // Get user input for square size
-    printf("Enter the size of the square: ");
+    // // Get user input for square size
+    // printf();
     scanf("%d", &n);
 
     // Loop to print the square
